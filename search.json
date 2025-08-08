@@ -1,1 +1,1 @@
-[{"title":"title111","url":"/posts/2bfe.html","content":"111\n"}]
+[{"title":" Hexo+Butterfly搭建教程","url":"/posts/e23b.html","content":"准备1个vercel账号，1个github账号，Vscode,Git部署Hexo1.新建一个文件夹，右键打开Git Bash,输入npm install hexo-cli -ghexo init [blogroot]cd [blogroot]npm install hexo-deployer-git --savenpm install hexo-renderer-pug hexo-renderer-stylus --save\n","categories":["Hexo"]},{"title":"title111","url":"/posts/2bfe.html","content":"111\n"}]

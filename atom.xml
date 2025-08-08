@@ -6,7 +6,7 @@
   <link href="https://blog.yptmcy.eu.org/atom.xml" rel="self"/>
   
   <link href="https://blog.yptmcy.eu.org/"/>
-  <updated>2025-08-07T12:10:59.199Z</updated>
+  <updated>2025-08-08T12:00:11.728Z</updated>
   <id>https://blog.yptmcy.eu.org/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title> Hexo+Butterfly搭建教程</title>
+    <link href="https://blog.yptmcy.eu.org/posts/e23b.html"/>
+    <id>https://blog.yptmcy.eu.org/posts/e23b.html</id>
+    <published>2025-08-08T12:00:10.683Z</published>
+    <updated>2025-08-08T12:00:11.728Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><h5 id="1个vercel账号，1个github账号，Vscode-Git"><a href="#1个vercel账号，1个github账号，Vscode-Git" class="headerlink" title="1个vercel账号，1个github账号，Vscode,Git"></a>1个vercel账号，1个github账号，Vscode,Git</h5><h2 id="部署Hexo"><a href="#部署Hexo" class="headerlink" title="部署Hexo"></a>部署Hexo</h2><h5 id="1-新建一个文件夹，右键打开Git-Bash-输入"><a href="#1-新建一个文件夹，右键打开Git-Bash-输入" class="headerlink" title="1.新建一个文件夹，右键打开Git Bash,输入"></a>1.新建一个文件夹，右键打开Git Bash,输入</h5><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br><span class="line">hexo init [blogroot]</span><br><span class="line"><span class="built_in">cd</span> [blogroot]</span><br><span class="line">npm install hexo-deployer-git --save</span><br><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;准备&quot;&gt;&lt;a href=&quot;#准备&quot; class=&quot;headerlink&quot; title=&quot;准备&quot;&gt;&lt;/a&gt;准备&lt;/h2&gt;&lt;h5 id=&quot;1个vercel账号，1个github账号，Vscode-Git&quot;&gt;&lt;a href=&quot;#1个vercel账号，1个github账号</summary>
+      
+    
+    
+    
+    <category term="Hexo" scheme="https://blog.yptmcy.eu.org/categories/Hexo/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>title111</title>
