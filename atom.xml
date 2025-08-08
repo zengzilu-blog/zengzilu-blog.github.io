@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zengのblog</title>
+  <icon>https://www.gravatar.com/avatar/564353d7a344ee4e41605705415ab019</icon>
+  <subtitle>心有丘壑，眼存山河</subtitle>
+  <link href="https://blog.yptmcy.eu.org/atom.xml" rel="self"/>
+  
+  <link href="https://blog.yptmcy.eu.org/"/>
+  <updated>2025-08-07T12:10:59.199Z</updated>
+  <id>https://blog.yptmcy.eu.org/</id>
+  
+  <author>
+    <name>Zeng Zilu</name>
+    <email>admin@yptmcy.eu.org</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>title111</title>
+    <link href="https://blog.yptmcy.eu.org/posts/2bfe.html"/>
+    <id>https://blog.yptmcy.eu.org/posts/2bfe.html</id>
+    <published>2025-08-07T12:10:58.336Z</published>
+    <updated>2025-08-07T12:10:59.199Z</updated>
+    
+    <content type="html"><![CDATA[<p>111</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;111&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
