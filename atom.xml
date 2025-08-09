@@ -45,13 +45,14 @@
     <published>2025-08-07T12:10:58.336Z</published>
     <updated>2025-08-07T12:10:59.199Z</updated>
     
-    <content type="html"><![CDATA[<p>111</p>]]></content>
+    <content type="html"><![CDATA[<a class="tag-Link" target="_blank" href="https://github.com/owen0o0/getFavicon">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/github.com/owen0o0/getFavicon.png);"></div>        <div class="tag-link-right">            <div class="tag-link-title">获取网站的Favicon图标并显示在你的网页上</div>            <div class="tag-link-sitename">owen0o0</div>        </div>        <i class="fa-solid fa-angle-right"></i>    </div>    </a><p><div align="center" class="aspect-ratio"><br>  &lt;iframe<br>    src=”<a href="https://player.bilibili.com/player.html?aid=556933559&amp;&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=0">https://player.bilibili.com/player.html?aid=556933559&amp;&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=0</a>“<br>    scrolling=”no”<br>    border=”0”<br>    frameborder=”no”<br>    framespacing=”0”<br>    high_quality=”1”<br>    danmaku=”1”<br>    allowfullscreen=”true”</p><blockquote><p>&lt;/iframe&gt;<br>&lt;/div&gt;<br>111</p></blockquote>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;111&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;a class=&quot;tag-Link&quot; target=&quot;_blank&quot; href=&quot;https://github.com/owen0o0/getFavicon&quot;&gt;
+    &lt;div class=&quot;tag-link-tips&quot;&gt;引用站外地址&lt;/div&gt;
+    &lt;div class</summary>
       
     
     
