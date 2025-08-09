@@ -6,7 +6,7 @@
   <link href="https://blog.yptmcy.eu.org/atom.xml" rel="self"/>
   
   <link href="https://blog.yptmcy.eu.org/"/>
-  <updated>2025-08-09T09:34:28.438Z</updated>
+  <updated>2025-08-09T16:35:11.128Z</updated>
   <id>https://blog.yptmcy.eu.org/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.yptmcy.eu.org/posts/e23b.html"/>
     <id>https://blog.yptmcy.eu.org/posts/e23b.html</id>
     <published>2025-08-08T12:00:10.683Z</published>
-    <updated>2025-08-09T09:34:28.438Z</updated>
+    <updated>2025-08-09T16:35:11.128Z</updated>
     
     <content type="html"><![CDATA[<h2 id="准备">准备</h2><h4 id="1个vercel账号，1个github账号，Vscode-Git">1个vercel账号，1个github账号，Vscode,Git</h4><h2 id="部署Hexo">部署Hexo</h2><h4 id="1-新建一个文件夹，右键打开Git-Bash-输入">1.新建一个文件夹，右键打开Git Bash,输入</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br><span class="line">hexo init [blogroot]</span><br><span class="line"><span class="built_in">cd</span> [blogroot]</span><br><span class="line">npm install hexo-deployer-git --save</span><br><span class="line">npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure><h4 id="2-用vscode打开博客目录">2.用vscode打开博客目录</h4>]]></content>
     
